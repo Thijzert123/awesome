@@ -88,6 +88,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 ## Modpack creation tools
 
 - **[ModdingX/PackDev](https://github.com/ModdingX/PackDev)** - A Gradle plugin for creating and running modpacks using ForgeGradle or Loom.
+- **[Thijzert123/packrinth](https://github.com/Thijzert123/packrinth)** - A CLI tool for creating and managing Minecraft modpacks with Modrinth projects, with support for multiple branches
 - **[Kneelawk/PackVulcan](https://github.com/Kneelawk/PackVulcan)** - A GUI modpack builder for Modrinth and packwiz
 - **[packwiz/packwiz](https://github.com/packwiz/packwiz)** - A command line tool for editing and distributing Minecraft modpacks, supporting Modrinth and CurseForge
 - **[juraj-hrivnak/Pakku](https://github.com/juraj-hrivnak/Pakku)** - A multiplatform modpack manager for Minecraft: Java Edition. Create modpacks for CurseForge, Modrinth or both simultaneously.
